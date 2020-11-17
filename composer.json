@@ -1,6 +1,5 @@
 {
     "require": {
-        "phpunit/phpunit": "^9"
     },
     "autoload": {
         "psr-4": {
@@ -11,5 +10,8 @@
         "psr-4": {
             "Tests\\": "tests"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
     }
 }
